@@ -1,1 +1,8 @@
 remote_theme: just-the-docs/just-the-docs
+
+title: Quotes API
+description: A REST API created as a midterm project for FHSU INF653
+baseurl: "/docs" # the subpath of your site, e.g. /blog
+url: "https://rsteele6.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+footer_content: "Copyright &copy; 2022 Rebecca Steele.
